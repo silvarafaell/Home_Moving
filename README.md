@@ -11,8 +11,9 @@ Ao adicionar um novo produto, o valor do carrinho deve ser alterado, totalizando
 produtos
 <br>
 <br>
-- Listar os itens disponíveis para compra/reserva;
-- Opção de adicionar e remover itens do carrinho de compras;
+
+- Listar os itens disponíveis para compra/reserva
+- Opção de adicionar e remover itens do carrinho de compras
 - Após o item for reservado não deve ser listado para compra ou deve ser informado
 como indisponível
 - Opção de listar itens reservados e quem reservou
